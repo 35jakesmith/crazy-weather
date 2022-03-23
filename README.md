@@ -7,20 +7,11 @@
    ## Table of Contents
    * [Description](#description)
    * [Link](#link)
-   * [Installation](#installation)
-   * [Usage](#usage)
    * [Questions](questions)
 
    ## Link
    
-    
-   ## Installation
-    
-   Type the following command in the terminal to install the necessary dependencies: npm i
-    
-   ## Usage
-    
-   Once everything is installed, type 'node server.js' in the terminal to start the application.
+   https://35jakesmith.github.io/crazy-weather/
     
    ## Questions
     
